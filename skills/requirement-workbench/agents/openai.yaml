@@ -1,0 +1,6 @@
+interface:
+  display_name: "需求全流程工作台"
+  short_description: "从原始需求到原型、前端与验收的自动工作流"
+  default_prompt: "Use $requirement-workbench to process this request end to end, automatically choose the current requirement or UI stage, and ask only one material question at a time with a recommendation."
+policy:
+  allow_implicit_invocation: true

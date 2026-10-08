@@ -1,0 +1,6 @@
+interface:
+  display_name: "UI/UX Pro Max（内部模块）"
+  short_description: "为需求工作台提供视觉方向和交互研究"
+  default_prompt: "Use $ui-ux-pro-max to research a visual direction for this product interface."
+policy:
+  allow_implicit_invocation: false

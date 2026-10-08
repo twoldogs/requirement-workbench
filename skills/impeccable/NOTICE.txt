@@ -1,0 +1,19 @@
+This bundle includes material derived from Impeccable.
+
+Source: https://github.com/pbakaus/impeccable
+Copyright 2025 Paul Bakaus
+License: Apache License 2.0. See LICENSE.txt.
+
+Impeccable builds on Anthropic's original frontend-design skill.
+
+The ios.md and android.md reference files are distilled from ehmo's
+platform-design-skills, originally licensed under MIT.
+Source: https://github.com/ehmo/platform-design-skills
+Author: ehmo
+
+Bundle modifications:
+- Added Requirement Workbench composition and single-owner routing.
+- Replaced provider-specific installed paths in Markdown instructions with a
+  runtime-resolved skill-directory placeholder.
+- Disabled automatic standalone invocation in the Codex distribution so the
+  Requirement Workbench remains the normal entry point.

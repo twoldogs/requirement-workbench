@@ -1,0 +1,7 @@
+interface:
+  display_name: "Emil Design Engineering"
+  short_description: "Review motion, transitions, gestures, and UI microinteractions"
+  default_prompt: "Use $emil-design-eng to review the interaction and motion quality of this interface."
+
+policy:
+  allow_implicit_invocation: false

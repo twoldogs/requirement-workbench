@@ -1,0 +1,7 @@
+interface:
+  display_name: "Diagram Design"
+  short_description: "Create polished branded technical and product diagrams"
+  default_prompt: "Use $diagram-design to create the requested visual artifact from verified source content."
+
+policy:
+  allow_implicit_invocation: false
